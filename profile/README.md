@@ -1,5 +1,20 @@
 ## Welcome to RPGGO zone 👋
 
+
+### 🙋‍♀️What is RPGGO.AI?
+We define RPGGO as a generative AI pownered interaction platform - the next generation game engine. wow🌈
+
+### 🧙 Who we are?
+
+Check our profile if you want to make friend with us
+
+| First Header  | Second Header |
+| ------------- | ------------- |
+| ![](./pics/lei.png) [Lei Zhang](https://www.linkedin.com/in/codingtmd/) | Content Cell  |
+| Content Cell  | Content Cell  |
+
+
+
 <!--
 
 **Here are some ideas to get you started:**
