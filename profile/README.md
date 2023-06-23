@@ -8,9 +8,9 @@ We define RPGGO as a generative AI pownered interaction platform - the next gene
 
 Check our profile if you want to make friend with us
 
-| First Header  | Second Header |
+| Team Members  | |
 | ------------- | ------------- |
-| ![](./pics/lei.png) [Lei Zhang](https://www.linkedin.com/in/codingtmd/) | Content Cell  |
+| ![](./pics/lei.png)<br /> [Lei Zhang](https://www.linkedin.com/in/codingtmd/) <br /> Full stack Eng| Content Cell  |
 | Content Cell  | Content Cell  |
 
 
