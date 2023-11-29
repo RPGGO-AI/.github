@@ -1,27 +1,22 @@
-## Welcome to RPGGO zone 👋
+# 📡 Our Vision
+RPGGO, a technology firm, leverages generative AI to build the Text-To-Openworld platform, enabling players to live an adventure with a new form of online interactive experiences. 
 
+Read details here: [[Tech Insights]](https://rpggo.gitbook.io/dev-docs/)
 
-### 🙋‍♀️What is RPGGO.AI?
-We define RPGGO as a generative AI pownered interaction platform - the next generation game engine. wow🌈
+# 📖 Resources to know us more
+Please visit our official website https://rpggo.ai/ for product annoucements. And follow our twitter [@rpggo](https://twitter.com/rpggoai) for casual updates.
 
-### 🧙 Who we are?
+# 🧙 Partnership
+Note, as a private corpration, our code base are all private, which means we cannot show you our awesome work.
 
-Check our profile if you want to make friend with us
+But we sponsored [[OpenAIGame]](https://github.com/OpenAIGame) to host our public project code bases. And you can find some fun projects there.
 
-| Team Members  | |
-| ------------- | ------------- |
-| ![](./pics/lei.png)<br /> [Lei Zhang](https://www.linkedin.com/in/codingtmd/) <br /> Full stack Eng| Content Cell  |
-| Content Cell  | Content Cell  |
+And we also open our public api for selected partnerships. If you have interests, please submit your request here.
 
+# 🧑‍🤝‍🧑 Team
+We have the right mix of technical expertise, industry experience, and visionary leadership. 
+- A first-class technical team with backgrounds from Meta, Snap, Tencent.
+- Proven experience in platform-based products, and content-oriented products in the global market.
+- Bi-cultural team with both American and Chinese backgrounds, combining global product success with a deep understanding of user growth strategies.
+- And most importantly, we are driven by a passion for technological innovation in the open world and a vision that believes in the value of User-Generated Content (UGC)."
 
-
-<!--
-
-**Here are some ideas to get you started:**
-
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
