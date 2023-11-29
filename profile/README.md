@@ -7,9 +7,9 @@ Read details here: [[Tech Insights]](https://rpggo.gitbook.io/dev-docs/)
 Please visit our official website https://rpggo.ai/ for product annoucements. And follow our twitter [@rpggo](https://twitter.com/rpggoai) for casual updates.
 
 # 🧙 Partnership
-Note, as a private corpration, our code base are all private, which means we cannot show you our awesome work.
+Note, as a private corpration, our code base are all private, which means you are not able to see our awesome work here.
 
-But we sponsored [[OpenAIGame]](https://github.com/OpenAIGame) to host our public project code bases. And you can find some fun projects there.
+But we sponsored [[OpenAIGame]](https://github.com/OpenAIGame) to host our public project code bases. And you can find some fun projects we donated there.
 
 And we also open our public api for selected partnerships. If you have interests, please submit your request here.
 
